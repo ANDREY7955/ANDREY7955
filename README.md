@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Andrey
 
-<!--
-**ANDREY7955/ANDREY7955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de **Técnico en Programación**.
 
-Here are some ideas to get you started:
+💻 Me interesa el desarrollo de software, la programación y la creación de aplicaciones web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologías y herramientas
+
+Actualmente estoy aprendiendo y trabajando con:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📚 Sobre mí
+
+- 🎓 Estudiante de programación.
+- 💻 Aprendiendo desarrollo web.
+- 🌱 Mejorando mis habilidades de programación.
+- 🔍 Interesado en conocer nuevas tecnologías.
+- 🛠️ Me gusta desarrollar proyectos y aprender cosas nuevas.
+
+---
+
+## 💡 Proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| Gestión de laboratorio | Aplicación web para administrar un laboratorio. | PHP, MySQL, HTML y CSS |
+| Catálogo web | Catálogo digital de productos. | HTML, CSS y Bootstrap |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=ANDREY7955&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- GitHub: [@ANDREY7955](https://github.com/ANDREY7955)
+
+---
+
+⭐ *Gracias por visitar mi perfil.*
